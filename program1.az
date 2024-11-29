@@ -1,0 +1,9 @@
+READ
+READSUB
+JUMP.EQ.0.L1
+PRINT "not equal"
+HAULT
+
+L1:
+PRINT "equal"
+HALT
